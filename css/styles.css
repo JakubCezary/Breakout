@@ -1,0 +1,32 @@
+canvas { padding-top: 100px;
+padding-bottom: 100px;
+margin: 20px auto;
+max-width: 600px; }
+body {
+
+	background-color: #DCDCDC;
+}
+
+.container{
+
+padding-top: 100px;
+padding-bottom: 100px;
+margin: 20px auto;
+max-width: 600px;
+
+
+}
+
+
+.nav-link {
+
+	color: green;
+	width: 200px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.list-group-item {
+
+	background-color: #DCDCDC;
+}
