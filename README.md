@@ -17,7 +17,7 @@ Use Firefox to open index.html file.
 
 ## Authors
 
-* **Jakub Lelo** - *Initial work* - [PurpleBooth](https://github.com/JakubCezary)
+* **Jakub Lelo** - *Initial work* - [JakubCezary](https://github.com/JakubCezary)
 
 ## License
 
